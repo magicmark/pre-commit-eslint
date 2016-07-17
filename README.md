@@ -9,7 +9,7 @@ Ensure you have eslint installed locally via your package.json.
 Add this to your `.pre-commit-config.yaml`:
 
 ```
--   repo: git://github.com:magicmark/pre-commit-eslint
+-   repo: git://github.com/magicmark/pre-commit-eslint
     sha: 797aeef96c9ba5aa26450a9a1fc3f7f5a8730647
     hooks:
     -   id: local-eslint
