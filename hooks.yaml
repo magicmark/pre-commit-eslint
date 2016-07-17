@@ -1,0 +1,6 @@
+-   id: local-eslint
+    name: ESLint
+    description: This hook checks against a local eslint configuration
+    entry: node_modules/.bin/eslint
+    language: node
+    files: \.js$

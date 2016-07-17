@@ -1,0 +1,25 @@
+{
+  "name": "pre-commit-eslint",
+  "version": "1.0.0",
+  "description": "pre-commit hook for eslint",
+  "scripts": {
+    "local-eslint": "eslint $1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicmark/pre-commit-eslint.git"
+  },
+  "peerDependencies": {
+      "eslint": "^3.0.0"
+  },
+  "keywords": [
+    "pre-commit",
+    "eslint"
+  ],
+  "author": "Mark Larah <mark@larah.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicmark/pre-commit-eslint/issues"
+  },
+  "homepage": "https://github.com/magicmark/pre-commit-eslint#readme"
+}
