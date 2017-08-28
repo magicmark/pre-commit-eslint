@@ -1,5 +1,7 @@
 # pre-commit ESLint Hook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicmark/pre-commit-eslint.svg)](https://greenkeeper.io/)
+
 This is a hook to allow [pre-commit](http://pre-commit.com) to interface with a local [eslint](http://eslint.org) configuration.
 
 ### Installing
